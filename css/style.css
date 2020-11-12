@@ -26,6 +26,10 @@ img {
   border-radius: 5%;
 }
 
+div {
+  padding: 0px;
+}
+
 .column {
   float: left;
   width: 33%;
