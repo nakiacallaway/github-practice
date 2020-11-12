@@ -26,9 +26,10 @@ a {
 img {
   border-radius: 5%;
 }
+
 div {
-  background-color: #660000
 }
+
 .column {
   float: left;
   width: 33%;
