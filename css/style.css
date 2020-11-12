@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+  
+  .logo {
+  width: 15%;
+  float: left;
+}
+  
+  li {
+  display: inline-block;
+  float: left;
+  padding: 10px;
+}
+
+img {
+  border-radius: 5%;
+}
