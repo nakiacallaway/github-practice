@@ -20,3 +20,4 @@ Don't cause trouble & I won't have to shoot you, savy?
 Thank you Crystal & Johny
 ### A changelog (usually for programmers)
 Nov 09, 2020 - Created repo, added readme, updated readme with all this cool stuff.
+Nov 11, 2020 - Added previously created index & css files.
