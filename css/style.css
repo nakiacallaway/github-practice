@@ -26,3 +26,9 @@ a {
 img {
   border-radius: 5%;
 }
+.column {
+  float: left;
+  width: 33%;
+  height: 400px;
+  background-color: #9e9e9e;
+}
