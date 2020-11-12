@@ -26,6 +26,9 @@ a {
 img {
   border-radius: 5%;
 }
+div {
+  background-color: #660033
+}
 .column {
   float: left;
   width: 33%;
