@@ -1,13 +1,12 @@
 * {
   box-sizing: border-box;
-}
 
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-
 a {
   text-decoration: none;
 }
@@ -21,17 +20,16 @@ a {
   display: inline-block;
   padding: 10px;
 }
-
 img {
   border-radius: 5%;
 }
-
 div {
   padding: 0px;
+  color: #fff;
 }
 
 .column1 {
-  width: 33%;
+  width: 33.33%;
   height: 400px;
   float: left;
   text-align: center;
@@ -40,7 +38,7 @@ div {
 }
 .column2 {
   float: left;
-  width: 33%;
+  width: 33.33%;
   height: 400px;
   text-align: center;
   font-style: oblique;  
@@ -48,15 +46,19 @@ div {
 }
 .column3 {
   float: left;
-  width: 33%;
+  width: 33.33%;
   height: 400px;
   text-align: center;
   font-style: oblique;  
+  background-color: #9e9e9e;
   background-color: #ff22aa;
+}
+.top col{
+  
 }
 .row2col1 {
   float: left;
-  width: 24%;
+  width: 25%;
   height: 200px;
   text-align: center;
   font-style: oblique;  
@@ -65,16 +67,16 @@ div {
 
 .row2col2 {
   float: left;
-  width: 24%;
+  width: 25%;
   height: 200px;
   text-align: center;
   font-style: oblique;  
-  background-color: #00ff00;
+  background-color: #000;
 }
 
 .row2col3 {
   float: left;
-  width: 24%;
+  width: 25%;
   height: 200px;
   text-align: center;
   font-style: oblique;  
@@ -83,9 +85,12 @@ div {
 
 .row2col4 {
   float: left;
-  width: 24%;
+  width: 25%;
   height: 200px;
   text-align: center;
   font-style: oblique;  
   background-color: #ff00ff;
+} 
+p {
+  padding: 10px;
 }
